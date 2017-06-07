@@ -1,0 +1,74 @@
+typography_spectrum: 0.5425485584419221
+color:
+  brandStrength: 0.17552416934631765
+  lightness: 0.8082298941444606
+  saturation: 0.3908230469096452
+  rhythmicContrast: 0.49249596847221255
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.5532797996420413
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c19a2bc-ff6a-4529-9395-ba358a88a490.jpg
+name: Sevärt Optik
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Glasögon
+    id: dbfcf6f9-0244-458f-9cbe-053cb7942bba
+    type: content
+  - name: Kontaktlinser
+    id: f96fd631-8a52-4d7e-a0a4-8214b3ac5085
+    type: content
+  - name: Arbetsglasögon
+    id: cd5aa1cd-bbce-4973-b638-e150f5a9f9db
+    type: content
+  - name: Solglasögon
+    id: ad6a8605-ae9e-4340-8b6f-ef3d09df005f
+    type: content
+  - name: Undersökningar
+    id: 7483678e-f65f-488b-93f7-8fa32b8995aa
+    type: content
+title: Sevärt Optik
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e7f5bac-0aec-42a5-8dd6-9116d515485c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e7f5bac-0aec-42a5-8dd6-9116d515485c.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Sevärt optik — din optiker i hjärtat av Södermalm sedan 1978!
+purpose:
+  - type: contact
+    url: 'mailto:info@sevartoptik.se'
+    label: info@sevartoptik.se
+  - type: contact
+    url: 'tel:086691060'
+    label: 08-669 10 60
+github: true
